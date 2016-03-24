@@ -1,0 +1,39 @@
+\documentclass[
+  final,
+  pagePreset=largepage,
+  babelLanguage=british,
+  %webversion,
+]{anecdote}
+
+%\usepackage{mylayout}
+
+%% Details of the book
+%% ===================
+
+\title{<%= book.title %>}
+\subtitle{<%= book.subtitle %>}
+\author{<%= book.author %>}
+\publisher{<%= book.publisher %>}
+\date{<%= book.date %>}
+\editionInfo{<%= book.edition %>}
+\ISBN{<%= book.print_isbn %>}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+% \hyphenation{}
+
+\begin{document}
+
+\ifwebversion
+\webcover{%
+\includegraphics[height=\paperheight]{./webcover.jpg}%
+}
+\fi
+
+<% book.chapters.each do |ch| %>
+<%= ch.to_chapterlist %>
+<% end %>
+
+\end{document}
