@@ -4,7 +4,7 @@ version: 'v1.0'
 # Epub and Mobi
 # =============
 
-bookid: "ProphecyBookId"
+bookid: "PuraBondadeBookId"
 
 # Level 1, 2, 3
 #section_names: [ "", "", "" ]
@@ -29,11 +29,8 @@ toc:
   - glossary.md
   - { title: "Copyright", src: 'copyright.md.erb', type: copyright-page }
 
-# BISAC Subject Headings List:
-# http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php
-
-#subject: LIST / OF / SUBJECTS
-#source: http://www.source.org/
+subject: RELIGION / Buddhism / Theravada
+source: http://fsbooks.org
 
 # MARC Code List for Relators:
 # Editor [edt], Cover designer [cov], Translator [trl],
