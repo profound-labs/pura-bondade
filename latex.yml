@@ -3,11 +3,20 @@ toc:
   - titlepage.tex
   - copyright.tex.erb
   - { insert: "\\cleartorecto\n\\tableofcontents" }
-  - preface.md
+  - introduction.tex
   - { insert: "\\mainmatter\n\\book{\\thetitle}" }
-  - like-a-boat.md
-  - nameless-labyrinth.markdown
-  - time-machine.markdown
+  - quatro-nobres.tex
+  - tres-refugios.tex
+  - curiosidade.tex
+  - cinco-obstaculos.tex
+  - trabalhar.tex
+  - recordar-o-buddha.tex
+  - intencao-correcta.tex
+  - cinco-faculdades.tex
+  - amor-e-apego.tex
+  - encontro-com-a-morte.tex
+  - nibbana.tex
+  - continuar.tex
   - { insert: '\appendix' }
   - further-comments.markdown
   - { insert: '\backmatter' }

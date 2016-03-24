@@ -2,6 +2,7 @@
 *.aux
 *.log
 *.toc
+.#*
 auto/
 publish/epub/
 publish/mobi/

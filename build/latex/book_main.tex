@@ -1,0 +1,100 @@
+\documentclass[
+  final,
+  pagePreset=largepage,
+  babelLanguage=british,
+  %webversion,
+]{anecdote}
+
+%\usepackage{mylayout}
+
+%% Details of the book
+%% ===================
+
+\title{Pura Bondade}
+\subtitle{}
+\author{Ajahn Candasiri}
+\publisher{The Publisher}
+\date{2016-03-24}
+\editionInfo{}
+\ISBN{000-0-000000-00-0}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+% \hyphenation{}
+
+\begin{document}
+
+\ifwebversion
+\webcover{%
+\includegraphics[height=\paperheight]{./webcover.jpg}%
+}
+\fi
+
+\frontmatter
+
+\input{../.././manuscript/tex/titlepage.tex}
+
+\input{chapters/copyright.tex}
+
+\cleartorecto
+\tableofcontents
+
+% Introdução
+\input{../.././manuscript/tex/introduction.tex}
+
+\mainmatter
+
+\book{\thetitle}
+
+% As Quatro Nobres Verdades
+\input{../.././manuscript/tex/quatro-nobres.tex}
+
+% Os Três Refúgios e Os Cinco Preceitos
+\input{../.././manuscript/tex/tres-refugios.tex}
+
+% Curiosidade e Compreensão
+\input{../.././manuscript/tex/curiosidade.tex}
+
+% Os Cinco Obstáculos
+\input{../.././manuscript/tex/cinco-obstaculos.tex}
+
+% Trabalhar Os Obstáculos
+\input{../.././manuscript/tex/trabalhar.tex}
+
+% Recordar o Buddha, o Dhamma e o Sangha
+\input{../.././manuscript/tex/recordar-o-buddha.tex}
+
+% Intenção Correcta
+\input{../.././manuscript/tex/intencao-correcta.tex}
+
+% As Cinco Faculdades Espirituais
+\input{../.././manuscript/tex/cinco-faculdades.tex}
+
+% Amor e Apego
+\input{../.././manuscript/tex/amor-e-apego.tex}
+
+% Encontro Com a Morte
+\input{../.././manuscript/tex/encontro-com-a-morte.tex}
+
+% Nibbana
+\input{../.././manuscript/tex/nibbana.tex}
+
+% Continuar
+\input{../.././manuscript/tex/continuar.tex}
+
+\appendix
+
+% Further Comments
+\input{chapters/further-comments.tex}
+
+\backmatter
+
+% Glossary
+\input{chapters/glossary.tex}
+
+\input{../.././manuscript/tex/copyright-details.tex}
+
+
+\end{document}
