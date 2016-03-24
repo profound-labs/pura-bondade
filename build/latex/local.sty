@@ -1,0 +1,17 @@
+\ProvidesPackage{local}
+
+\graphicspath{{../../assets/Images/}}
+
+\renewcommand\frontmatterChapterStyle{\chapterstyle{caph-high}}
+\renewcommand\mainmatterChapterStyle{\chapterstyle{caph}}
+\renewcommand\appendixChapterStyle{\chapterstyle{caph-high}}
+\renewcommand\backmatterChapterStyle{\chapterstyle{caph-high}}
+
+\addtodef{\mainmatter}{}{%
+  \addtocontents{toc}{\addvspace{-5pt}}%
+  \addtocontents{toc}{\protect\enlargethispage{\baselineskip}}%
+}
+
+\addtodef{\backmatter}{}{%
+  \addtocontents{toc}{\addvspace{-5pt}}%
+}
