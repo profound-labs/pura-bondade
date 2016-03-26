@@ -162,6 +162,8 @@
   {\@setfontsize\chapterNumberSize{40}{40}}
 \newcommand{\chapterTitleSize}
   {\@setfontsize\chapterTitleSize{18}{20}}
+%\newcommand{\chapterTitleSize}
+%  {\@setfontsize\chapterTitleSize{22}{25}}
 \newcommand{\chapterAuthorSize}
   {\@setfontsize\chapterAuthorSize{12}{14}}
 \newcommand{\chapterNoteSize}
@@ -975,6 +977,10 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\titlealign{\raggedright}
 }
 
+% === Caph ===
+%
+% Chapter title size: 18 / 20 pt
+
 \makechapterstyle{caph}{
   \chapterstyle{default}
   \setlength{\beforechapskip}{10mm}
@@ -990,7 +996,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\printchapternum{}
   \renewcommand\afterchapternum{}
   \renewcommand\printchapternonum{}
-  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize\itshape\bfseries}
+  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize\itshape}
   \renewcommand\titlealign{\if@mainmatter \raggedright \else \centering \fi}
   \renewcommand*\printchaptertitle[1]{%
     % ===
