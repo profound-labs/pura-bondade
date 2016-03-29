@@ -534,7 +534,7 @@ philo-sophical munindo amaravati thai-land}
 
 \makepsmarks{altTopBottomCorner}{%
   \nouppercaseheads%
-  \createmark{chapter}{right}{shownumber}{\@chapapp\ }{. \ }%
+  \createmark{chapter}{right}{nonumber}{}{}%
 }
 
 \makepagestyle{bottomcenter}

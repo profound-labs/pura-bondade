@@ -15,3 +15,11 @@
 \addtodef{\backmatter}{}{%
   \addtocontents{toc}{\addvspace{-5pt}}%
 }
+
+\renewenvironment{quote}%
+{\normalsize
+\list{}{\rightmargin\leftmargin
+\parskip 0.5\baselineskip
+\itshape}%
+\item[]}%
+{\endlist}
