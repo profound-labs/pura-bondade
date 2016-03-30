@@ -15,6 +15,7 @@
 \author{Ajahn Candasiri}
 \publisher{The Publisher}
 \date{2016-03-24}
+% TODO: edition info
 \editionInfo{}
 \ISBN{000-0-000000-00-0}
 
@@ -36,10 +37,14 @@
 
 \input{../.././manuscript/tex/titlepage.tex}
 
-\input{chapters/copyright.tex}
+\input{../.././manuscript/tex/copyright.tex}
+
+\chaptertitlelefttrue
 
 \cleartorecto
-\tableofcontents
+\tableofcontents*
+
+\chaptertitleleftfalse
 
 % Introdução
 \input{../.././manuscript/tex/introduction.tex}
@@ -47,9 +52,11 @@
 % TODO wat.
 % Faltam os ``Agradecimentos''
 
-\mainmatter
+\clearpage
+\mbox{}\thispagestyle{empty}
+\clearpage
 
-\book{\thetitle}
+\mainmatter
 
 % As Quatro Nobres Verdades
 \input{../.././manuscript/tex/quatro-nobres.tex}

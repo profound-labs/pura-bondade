@@ -2,11 +2,14 @@
 *.aux
 *.log
 *.toc
+*.dvi
+*.ps
 .#*
 auto/
 publish/epub/
 publish/mobi/
 publish/pdf/
+build/latex/mark.pdf
 build/latex/book_main.pdf
 build/latex/cover_back.pdf
 build/latex/cover_spine.pdf

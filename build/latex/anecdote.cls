@@ -1063,6 +1063,45 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\titlealign{\raggedright}
 }
 
+\newif\ifchaptertitleleft
+\chaptertitleleftfalse
+
+\makechapterstyle{mirzam}{
+  \chapterstyle{lowtitle}
+  \setlength{\beforechapskip}{0pt}
+  \renewcommand\printchapternum{}
+  \renewcommand\afterchapternum{}
+  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize\itshape}
+  \renewcommand*\printchaptertitle[1]{%
+    \ifchaptertitleleft
+      \setlength{\chapterTitleLeftSkip}{6pc}%
+    \else
+      \setlength{\chapterTitleLeftSkip}{0pt}%
+    \fi
+    \ifchaptertitleleft
+      \raggedright\hspace*{\chapterTitleLeftSkip}%
+    \else
+      \centering
+    \fi
+    \parbox{\linewidth - \chapterTitleLeftSkip}{%
+      \ifchaptertitleleft
+        \raggedright
+      \else
+        \centering
+      \fi
+      \chaptitlefont\color{chaptertitle}%
+      {##1}%
+    }%
+    \if@mainmatter
+      \par
+      \vspace*{\onelineskip}%
+      \hspace*{-0.05\linewidth}%
+      \includegraphics[width=1.1\linewidth]{mark-crop}%
+      \par
+    \fi
+  }
+}
+
 % Commands to assign the chapter styles to book parts. Use \renewcommand
 % to adjust.
 

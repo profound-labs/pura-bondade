@@ -3,12 +3,18 @@ FILE=book_main
 LATEX=lualatex
 BIBTEX=bibtex
 
-LATEX_OPTS=-interaction=nonstopmode -halt-on-error
+LATEX_OPTS=-interaction=nonstopmode -halt-on-error -shell-escape
 
 all: document
 
-document:
+document: mark
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+
+mark:
+	latex -interaction=nonstopmode -halt-on-error mark.tex
+	dvips mark.dvi
+	ps2pdf mark.ps
+	pdfcrop mark.pdf
 
 view:
 	evince $(FILE).pdf &
