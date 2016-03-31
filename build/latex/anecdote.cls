@@ -1069,6 +1069,8 @@ philo-sophical munindo amaravati thai-land}
 \makechapterstyle{mirzam}{
   \chapterstyle{lowtitle}
   \setlength{\beforechapskip}{0pt}
+  \setlength{\midchapskip}{1.5\onelineskip}
+  \setlength{\afterchapskip}{2.5\onelineskip}
   \renewcommand\printchapternum{}
   \renewcommand\afterchapternum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize\itshape}
@@ -1094,7 +1096,7 @@ philo-sophical munindo amaravati thai-land}
     }%
     \if@mainmatter
       \par
-      \vspace*{\onelineskip}%
+      \vspace*{\midchapskip}%
       \hspace*{-0.05\linewidth}%
       \includegraphics[width=1.1\linewidth]{mark-crop}%
       \par
