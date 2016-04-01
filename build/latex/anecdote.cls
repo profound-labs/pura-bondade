@@ -1068,18 +1068,29 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{mirzam}{
   \chapterstyle{lowtitle}
-  \setlength{\beforechapskip}{0pt}
-  \setlength{\midchapskip}{1.5\onelineskip}
-  \setlength{\afterchapskip}{2.5\onelineskip}
-  \renewcommand\printchapternum{}
-  \renewcommand\afterchapternum{}
-  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize\itshape}
-  \renewcommand*\printchaptertitle[1]{%
+  \def\setchapterspaces{%
+    \setlength{\midchapskip}{1.5\onelineskip}
+    \if@mainmatter
+      \setlength{\beforechapskip}{2\onelineskip}%
+      \setlength{\afterchapskip}{3.5\onelineskip}%
+    \else
+      \setlength{\beforechapskip}{0pt}%
+      \setlength{\afterchapskip}{2.5\onelineskip}%
+    \fi
     \ifchaptertitleleft
       \setlength{\chapterTitleLeftSkip}{6pc}%
     \else
       \setlength{\chapterTitleLeftSkip}{0pt}%
     \fi
+  }
+  \def\chapterheadstart{
+    \setchapterspaces%
+    \vspace*{\beforechapskip}
+  }%
+  \renewcommand\printchapternum{}
+  \renewcommand\afterchapternum{}
+  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize\itshape}
+  \renewcommand*\printchaptertitle[1]{%
     \ifchaptertitleleft
       \raggedright\hspace*{\chapterTitleLeftSkip}%
     \else
@@ -1097,9 +1108,9 @@ philo-sophical munindo amaravati thai-land}
     \if@mainmatter
       \par
       \vspace*{\midchapskip}%
-      \hspace*{-0.05\linewidth}%
-      \includegraphics[width=1.1\linewidth]{mark-crop}%
-      \par
+      {\centering%
+        \includegraphics[width=0.9\linewidth]{mark-crop}%
+      \par}%
     \fi
   }
 }
@@ -1191,7 +1202,7 @@ philo-sophical munindo amaravati thai-land}
   \setlength{\vindent}{\vgap}
   \setlength{\vleftmargin}{2em}
 
-  \setlength{\parskip}{5pt}
+  \setlength{\parskip}{5pt}% For 16pt, this is 0.3125\baselineskip
   \setlength{\parindent}{0pt}
 
   % === setup page layout ===
@@ -1301,8 +1312,6 @@ philo-sophical munindo amaravati thai-land}
   \settrimmedsize{\stockheight}{\stockwidth}{*}
   \settrims{0pt}{0pt}
   \settypeblocksize{27\baselineskip + \topskip}{*}{0.618}% 1/1.618 Golden section
-  %\setlrmargins{*}{*}{0.889}% major 2nd 15:16, gives: 19.24mm | 17.1mm
-  % FIXED: inner margin too close to the spine. Increased it a bit.
   \setlrmargins{*}{*}{0.63}% gives: 22.30mm | 14.04mm
   \setulmargins{*}{*}{1.701}% Tall Pentagon
   \setlength{\footskip}{3\baselineskip}
