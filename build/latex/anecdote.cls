@@ -60,7 +60,7 @@
 \LoadClass[11pt,twoside]{memoir}
 
 % === Book Core ===
-
+  
 \RequirePackage[\BOOK@babelLanguage]{babel}
 \RequirePackage{nag}
 \RequirePackage{xparse}
@@ -239,7 +239,7 @@
 % memoir's more allowing penalties
 \midsloppy
 
-%\renewcommand\britishhyphenmins{{3}{3}}
+\renewcommand\portuguesehyphenmins{{3}{3}}
 
 % The lastparline or the parfillskip solution is overkill in many
 % places. It is optimal for larger paragraphs, but creates too much
@@ -624,14 +624,7 @@ philo-sophical munindo amaravati thai-land}
 
 \titlecontents{chapter}[\tocLeftWidth]
 {\normalsize\tocFont}%
-{%
-  \contentsmargin{0pt}%
-  \makebox[0pt][r]{%
-    {\color{tocleftside}%
-    {\tocFontOldNum\thecontentslabel}}%
-    \hspace*{0.5em}$\cdot$\hspace*{0.5em}%
-  }%
-}
+{\contentsmargin{0pt}}
 {\contentsmargin{0pt}%
 \itshape}
 {\enspace\hfill\normalsize\tocFont\thecontentspage}
