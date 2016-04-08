@@ -1,0 +1,8 @@
+PWD /home/yume/prods/books/alpha/pura-bondade/manuscript/tex
+INPUT /home/yume/texlive/2015/texmf.cnf
+INPUT /home/yume/texlive/2015/texmf-dist/web2c/texmf.cnf
+INPUT /home/yume/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT tres-refugios.tex
+OUTPUT tres-refugios.log
+INPUT /home/yume/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /home/yume/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
