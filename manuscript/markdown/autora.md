@@ -1,0 +1,15 @@
+Sobre a Autora
+==============
+
+Ajahn Candasiri nasceu na Escócia em 1947 e teve uma educação cristã.
+Depois de ter frequentado o ensino superior, formou-se e trabalhou como
+terapeuta ocupacional, principalmente na área da saúde mental. Em 1977,
+o seu interesse pela meditação a conhecer Ajahn Sumedho, pouco depois
+deste ter chegado da Tailândia. Inspirada pelos seus ensinamentos e
+exemplo, Ajahn Candasiri iniciou o seu treino monástico em Chithurst,
+como uma das primeiras quatro Anagārikā.
+
+Na comunidade monástica, Ajahn Candasiri tem estado activamente
+envolvida no desenvolvimento da formação *vinaya* das monjas. Conduziu
+muitos retiros de meditação para leigos e aprecia particularmente
+ensinar jovens e participar em diálogos budistas/cristãos.

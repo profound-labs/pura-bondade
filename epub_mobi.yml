@@ -6,27 +6,31 @@ version: 'v1.0'
 
 bookid: "PuraBondadeBookId"
 
-# Level 1, 2, 3
-#section_names: [ "", "", "" ]
-#show_chapter_name: true
-#chapter_number_format: roman
-
 toc:
   - { the_matter: frontmatter }
-  - { target: epub, title: "Cover", src: 'cover.xhtml.erb', layout: none, type: cover, linear: no }
-  - { target: epub, title: "Title Page", src: 'titlepage.xhtml.erb', type: title-page }
-  - { target: epub, title: "Contents", src: 'toc.xhtml.erb', type: toc }
-  - preface.md
-  - { target: mobi, title: "Title Page", src: 'titlepage.xhtml.erb', type: text, class: title-page }
-  - { target: mobi, title: "Contents", src: 'toc.xhtml.erb', type: toc }
+  - { target: epub, title: "Capa", src: 'cover.xhtml.erb', layout: none, type: cover, linear: no }
+  - { target: epub, title: "Título", src: 'titlepage.xhtml.erb', type: title-page }
+  - { target: epub, title: "Índice", src: 'toc.xhtml.erb', type: toc }
+  - introduction.md
+  - { target: mobi, title: "Título", src: 'titlepage.xhtml.erb', type: text, class: title-page }
+  - { target: mobi, title: "Índice", src: 'toc.xhtml.erb', type: toc }
   - { the_matter: mainmatter, section_number: 1 }
-  - like-a-boat.md
-  - nameless-labyrinth.markdown
-  - time-machine.markdown
-  - { section_name: "Appendix", section_number: 1 }
-  - further-comments.markdown
+  - quatro-nobres.md
+  - tres-refugios.md
+  - curiosidade.md
+  - cinco-obstaculos.md
+  - quatro-bases.md
+  - trabalhar.md
+  - recordar-o-buddha.md
+  - intencao-correcta.md
+  - brahma-viharas.md
+  - cinco-faculdades.md
+  - amor-e-apego.md
+  - encontro-com-a-morte.md
+  - nibbana.md
+  - continuar.md
   - { the_matter: backmatter }
-  - glossary.md
+  - autora.md
   - { title: "Copyright", src: 'copyright.md.erb', type: copyright-page }
 
 subject: RELIGION / Buddhism / Theravada

@@ -1,0 +1,100 @@
+As Quatro Nobres Verdades
+=========================
+
+Há uma história, que muitos de vocês devem conhecer, que começa com o
+Buddha a caminhar na floresta com alguns dos seus discípulos. A certa
+altura, o Buddha baixa-se e apanha uma mão cheia de folhas do chão.
+Estende as folhas aos discípulos e diz: «Digam-me se existem mais folhas
+nas árvores e no chão, ou na minha mão?» Os discípulos dizem: «Existem
+apenas algumas folhas na sua mão, mas existem inúmeras folhas nas
+árvores e no chão da floresta.» O Buddha responde: «Sim, é verdade. As
+folhas nas árvores e no chão representam todas as coisas que o Ser
+Perfeito pode saber e as folhas na minha mão representam aquilo que eu
+ensino: o que vocês precisam saber e contemplar, de forma a libertarem o
+coração do sofrimento.»[^1]
+
+Alguns de vocês poderão gostar de especular sobre o início e o fim do
+universo, bem como sobre todo o tipo de questões para as quais não
+existe verdadeiramente uma resposta. Contudo, o Buddha encorajou-nos a
+não nos preocuparmos com esses assuntos, mas antes, que tivéssemos
+atenção a apenas quatro coisas, referindo-se a estas como as Quatro
+Nobres Verdades. À  chamou a Nobre Verdade do Sofrimento, a qual se
+refere ao facto de nada no mundo condicionado poder proporcionar paz ou
+bem-estar duradouros. Em resultado disto, a existência humana é
+inerentemente insatisfatória.
+
+Em segundo lugar, temos a Nobre Verdade da Origem do Sofrimento - esta
+refere-se à existência de uma razão pela qual sofremos e ao facto de
+podermos descobri-la através da nossa própria observação. Quando olhamos
+cuidadosamente, podemos reparar como uma sensação de desconforto pode
+criar o desejo de querer que as coisas sejam diferentes daquilo que são.
+Quando nos apegamos a esse desejo, quando investimos nele, este apego
+traz uma sensação de tensão, uma sensação de conflito.
+
+A Terceira Nobre Verdade é a Verdade da Cessação do Sofrimento, do fim
+da tensão ou do conflito. Isto surge quando largamos aquele desejo de as
+coisas serem diferentes do que são. O desejo, em si próprio, pode
+continuar, contudo nós abdicamos ou abandonamos o nosso empenho nele.
+Fazemos as pazes com a realidade tal como ela é.
+
+A Quarta Nobre Verdade é a Nobre Verdade do Caminho que Conduz ao Fim do
+Sofrimento: consiste nas orientações que o Buddha nos deixou sobre como
+viver a nossa vida de forma a sofrermos cada vez menos.
+
+No decurso deste retiro iremos contemplar estas verdades apresentadas
+pelo Buddha. Se estamos a sentir sofrimento, podemos dar por nós a
+pensar que temos de fazer alguma coisa, que temos de escapar ao
+sofrimento, mas o Buddha disse: «Não, o sofrimento deve ser
+compreendido.» Não conseguimos compreender o sofrimento nas nossas vidas
+se estamos constantemente a tentar fugir dele ou a distrairmo-nos. Por
+isso aquilo que proponho é que, ao longo destes dias, se interessem,
+sejam curiosos relativamente à vossa vida e experiência - incluindo
+mesmo as tensões, as pressões e lutas aparentemente triviais ou as
+formas subtis de aversão ou negatividade. Interessem-se verdadeiramente
+pela forma mais insignificante de ansiedade ou de medo, como um
+cientista a examinar algo ao microscópio.
+
+Há pouco, quando fui dar uma volta a pé, reflecti em como fazer um
+retiro é um pouco como estar de férias e fazer amizades. Isto pode
+parecer um pouco surpreendente aos que estão habituados ao tipo de
+retiros nos quais são encorajados a trabalhar arduamente, nos quais é
+enfatizado o esforço despendido para progredir na prática da meditação.
+Também podem interrogar-se sobre o que quero dizer com «fazer amizades»
+quando o Silêncio Nobre: não falar uns com os outros a não ser que seja
+mesmo necessário. Com efeito, o que eu gostava de encorajar o mais
+possível é que alcancem uma sensação agradável, de tranquilidade e
+descontracção. Não me refiro ao tipo de relaxamento que leva a que
+simplesmente adormeçam, apesar de alguns de vocês poderem sentir muita
+sonolência nos primeiros dias. Este tipo de tranquilidade e
+descontracção a que me refiro é um estado de vigília, uma inteligência,
+e o tipo de amizade que sugiro é que tentem ser mais amigáveis com vós
+próprios.
+
+Uma das coisas mais tristes e difíceis para as pessoas na nossa cultura
+ocidental parece ser a falta de capacidade de fazerem amizade consigo
+próprias, para se aceitarem tal como são. Podemos ser bondosos para com
+as outras pessoas, perdoá-las e aceitá-las, mas quando olhamos para as
+nossas mentes e para a forma como nos relacionamos connosco próprios,
+vemos que, frequentemente, podemos ser muito cruéis, muito exigentes e
+severos nos juízos sobre nós mesmos. Por isso encorajo-vos a
+conhecerem-se melhor nestes próximos dias, de uma forma mais gentil.
+Reparem naquilo que não gostam e que não aprovam em vós próprios, e
+vejam apenas se se podem perdoar e aceitar as coisas tal como são. Desta
+forma pode dar-se uma verdadeira transformação. Do mesmo modo,
+apercebo-me que quanto mais faço amizade comigo própria, mais apta estou
+a fazer amizade com outras pessoas.
+
+Se insistimos em reprimir o que não nos agrada, os nossos pensamentos e
+as nossas disposições desagradáveis, não nos estamos a aceitar realmente
+e provavelmente acabaremos por adoecer. Parece que grande parte das
+doenças dos tempos atuais resulta de não cuidarmos adequadamente da
+nossa vida emocional.
+
+Por isso, podemos ver este tempo de retiro como uma oportunidade de
+fazer algum trabalho preventivo importante. Se criarmos uma atmosfera
+interna de confiança e de bondade, os nossos maus hábitos de pensamento
+podem revelar-se. Então, tendo visto e admitido estes hábitos, podemos
+abrir mão deles, de forma que as nossas vidas deixem de ser limitadas
+pelos seus efeitos negativos.
+
+[^1]: SN 56.31, Simsapa Sutta (As Folhas de Simsapa).

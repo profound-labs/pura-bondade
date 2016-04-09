@@ -1,3 +1,4 @@
+\\ 
 \\thai
 \\speaker
 \\LaTeX
@@ -38,3 +39,9 @@
 \\cleartoverso
 \\itshape
 \\par
+\\linebreak
+\\copyright
+\\begin[{]quote[}]
+\\end[{]quote[}]
+\\begin[{]packeditemize[}]
+\\end[{]packeditemize[}]

@@ -17,8 +17,6 @@ toc:
   - encontro-com-a-morte.tex
   - nibbana.tex
   - continuar.tex
-  - { insert: '\appendix' }
-  - further-comments.markdown
   - { insert: '\backmatter' }
-  - glossary.md
+  - autora.tex
   - copyright-details.tex

@@ -1,0 +1,48 @@
+Introdução
+==========
+
+Esta pequena colectânea de ensinamentos é maioritariamente composta por
+palestras oferecidas num retiro de uma semana, realizado na República
+Checa em 2009. A palestra final foi dada no Retiro de Final de Ano, em
+2011/12, também na República Checa.
+
+Apresentei os ensinamentos em inglês e estes foram traduzidos para
+checo, para benefício da maioria dos participantes, com escassos ou
+nulos conhecimentos de inglês. Isto exigiu uma precisão e economia de
+palavras que descobri ser uma disciplina muito útil a partir do momento
+em que me adaptei a um ritmo mais lento. Os intervalos para a tradução
+também permitiram uma pausa meditativa - não constituíram, como alguns
+imaginaram, momentos para pensar sobre o que dizer a seguir! A minha
+ideia inicial era preparar um pequeno livro com as transcrições em
+inglês e em checo, lado a lado. Posteriormente tornou-se claro que a
+melhor abordagem seria preparar e editar primeiro uma versão em inglês.
+É esta que o leitor tem agora nas suas mãos (traduzida desta vez para
+Português). Uma equipa de tradutores checos aguardam para posteriormente
+preparar a versão checa para publicação.
+
+Um objectivo deste livro é fornecer uma introdução para quem vai pela
+primeira vez a um retiro com um professor da nossa tradição Theravada.
+São apresentados os ensinamentos básicos, a par de algumas estruturas de
+apoio para a prática (os Refúgios e os Preceitos), retornando a eles -
+por vezes duas ou mesmo três vezes - de forma a que o leitor, ou
+participante no retiro, seja constantemente lembrado dos temas
+essenciais da prática. À medida que avança nestas páginas, não se
+surpreenda se encontrar várias vezes tópicos como as Quatro Nobres
+Verdades, impermanência, “insatisfação” e «não-eu», ou bondade e
+curiosidade como antídotos para os cinco obstáculos.
+
+Aqueles que já têm vários anos de prática budista contemplativa podem
+igualmente encontrar alento e apoio ao regressar a estes temas básicos.
+À medida que os ensinamentos são aplicados nas nossas vidas, trabalham o
+coração e, gradualmente, transformam a nossa visão do mundo, pelo que,
+de cada vez que os ouvimos, algo de novo é revelado.
+
+Há mais de 2500 anos o Buddha exortou os seus discípulos «… ide e
+deambulai para o bem e a felicidade de muitos, por compaixão para com o
+mundo, para o benefício, bem e felicidade dos deuses e da humanidade.» É
+neste mesmo espírito que estes ensinamentos são, mais uma vez,
+apresentados.
+
+Irmã Candasiri\\
+Rocana Vihara\\
+Abril de 2012
