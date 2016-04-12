@@ -283,9 +283,9 @@ Desta forma tornamo–nos amigos de nós próprios, começamos a e a
 interessar-nos por estas condições à medida que surgem, em vez de as
 encarar como problemas terríveis que nos transformam num caso perdido.
 
-Temos uma figura no Budismo chamada Mara, que nos quer ver
+Temos uma figura no Budismo chamada Māra, que nos quer ver
 desencorajados, a pensar que somos casos perdidos e não quer que
 despertemos. É um pouco como o Satanás do Cristianismo. A resposta de
 Jesus a Satanás foi: «Vade retro (para trás) Satanás.» De forma
-semelhante, a resposta do Buddha a Mara foi: «Conheço-te, Mara.» O pobre
-Mara sentiu-se sempre muito desencorajado quando o Buddha o reconheceu.
+semelhante, a resposta do Buddha a Māra foi: «Conheço-te, Māra.» O pobre
+Māra sentiu-se sempre muito desencorajado quando o Buddha o reconheceu.

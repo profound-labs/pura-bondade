@@ -101,7 +101,7 @@ mosteiro, tinha de meditar e encontrei forma de o fazer.
 Precisamos encontrar formas de nos encorajarmos e não sermos demasiado
 exigentes connosco próprios, de ficarmos contentes apenas por estarmos
 conscientes da mente e do corpo, tal como são. Dizer: «Tenho de ter um
-*samadhi* muito forte e tenho de me sentar a meditar todos os dias
+*samādhi* muito forte e tenho de me sentar a meditar todos os dias
 durante três horas», é demasiado severo e exigente. Para alguns de nós
 isso pode ser útil mas, para a maior parte, a nossa prática tem de ser
 um empreendimento bastante mais modesto. Se a abordarmos de uma forma
@@ -119,13 +119,13 @@ como que um triângulo com a consciência no vértice superior: a
 consciência monitoriza e olha pela forma como a nossa prática está a
 correr.
 
-As duas qualidades finais são *samadhi* e *pañña*. *Samadhi* é, com
+As duas qualidades finais são *samādhi* e *paññā*. *Samādhi* é, com
 frequência, traduzida como «concentração», mas eu prefiro a palavra
-«tranquilidade». *Pañña* é discernimento ou sabedoria. A sensação de
-tranquilidade, ou *samadhi*, equilibra a energia. Na nossa prática é
+«tranquilidade». *Paññā* é discernimento ou sabedoria. A sensação de
+tranquilidade, ou *samādhi*, equilibra a energia. Na nossa prática é
 importante reparar se somos do tipo enérgico, que está sempre a fazer
 muitas coisas, ou se somos mais do tipo de ter uma prática forte de
-*samadhi*. Eu tendo a ser do primeiro tipo. Gosto de fazer coisas. Gosto
+*samādhi*. Eu tendo a ser do primeiro tipo. Gosto de fazer coisas. Gosto
 de ser útil.
 
 É bom manter um equilíbrio entre estas duas faculdades, tanto na prática
@@ -257,10 +257,10 @@ aplicarmos no cultivo da consciência, *sati*.
 Consciência (*sati*) – *sati* olha pelas outras faculdades e mantém–nas
 equilibradas.
 
-Tranquilidade (*samadhi*) – esta reunião e concentração da atenção
+Tranquilidade (*samādhi*) – esta reunião e concentração da atenção
 constitui uma forma de equilibrar a energia.
 
-Discernimento sábio (*pañña*) – a discriminação cuidadosa pode
+Discernimento sábio (*paññā*) – a discriminação cuidadosa pode
 equilibrar a fé.
 
 Se nos aplicarmos e mantivermos a prática e o desenvolvimento destas

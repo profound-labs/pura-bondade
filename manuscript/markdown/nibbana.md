@@ -1,4 +1,4 @@
-Nibbana
+Nibbāna
 =======
 
 Quando praticamos em conjunto, nos retiros, durante um certo período de
@@ -11,24 +11,24 @@ surgem, etc, mas pelo menos quando nos mantemos quietos e não vemos
 televisão nem andamos de um lado para o outro numa grande cidade, a
 mente é menos agitada. As coisas começam a acalmar.
 
-Alguém estava a colocar uma questão relativamente ao *Nibbana*, por isso
+Alguém estava a colocar uma questão relativamente ao *Nibbāna*, por isso
 pensei falar um pouco sobre este assunto. Trata-se daquilo que todos nos
 esforçamos por alcançar, por isso penso que é bom termos uma ideia para
 onde vamos. É algo do qual o Buddha falou muito, sob diferentes formas,
 e usou muitas analogias diferentes para se referir à experiência do
-*Nibbana*. A própria palavra é interessante, porque trata-se de uma
+*Nibbāna*. A própria palavra é interessante, porque trata-se de uma
 palavra que era usada de forma bastante normal no tempo do Buddha - quer
 simplesmente dizer «arrefecido». Era uma palavra utilizada quando por
 exemplo se cozia arroz: quando o arroz acaba de ser cozido está muito
 quente e não o conseguimos comer - temos de esperar até que arrefeça um
-pouco para o comer. Assim, *Nibbana* era a palavra usada para descrever
+pouco para o comer. Assim, *Nibbāna* era a palavra usada para descrever
 o arroz quando está suficientemente frio para ser comido - uma sensação
 de arrefecimento sereno, uma sensação de à-vontade.
 
 Há uma frase que o Buddha usa com bastante frequência nos *suttas,*
 quando fala aos seus discípulos: «Por não compreendermos quatro coisas,
 tanto eu como vocês tivemos de despender muitas vidas nesta caminhada
-difícil dos renascimentos, tendo permanecido no *samsara*» - que é o
+difícil dos renascimentos, tendo permanecido no *saṃsāra*» - que é o
 reino de errância contínua no qual tentamos sempre encontrar algum
 conforto, alguma paz, alguma satisfação. Podemos sentir-nos confortáveis
 durante algum tempo mas, depois, ficamos novamente desconfortáveis e
@@ -116,11 +116,11 @@ desejo forte. E compreendeu que talvez não devesse recear estas
 experiências agradáveis, e que talvez estas até o pudessem ajudar na sua
 busca. De forma que voltou à meditação com o seu corpo um pouco mais
 nutrido e saudável e, por fim, alcançou o entendimento perfeito - o
-estado de *Nibbana*. Continuou a disfrutar este agradável estado durante
+estado de *Nibbāna*. Continuou a disfrutar este agradável estado durante
 várias semanas e, por fim, começou a partilhar com outros o seu
 entendimento, tendo-o formulado como As Quatro Nobres Verdades. Estas
 são quatro coisas que o Buddha disse ser necessário compreender para nos
-libertarmos do *samsara*, de forma a sair do reino da errância contínua.
+libertarmos do *saṃsāra*, de forma a sair do reino da errância contínua.
 Estas Nobre Verdades são o *dukkha* (sofrimento), a sua causa, a sua
 extinção e o caminho para a sua extinção.
 
@@ -201,7 +201,7 @@ verdade? É mesmo assim? Tenho mesmo de acreditar nestas coisas?
 Desta maneira, gradualmente o sentido de pessoalidade é dissolvido. À
 medida que vemos a forma como o criamos, começamos a ter consciência da
 possibilidade de não o continuar a criar e, ao invés, movermo-nos pela
-vida sem nos agarrarmos, sem apego. Esta é a experiência do *Nibbana*,
+vida sem nos agarrarmos, sem apego. Esta é a experiência do *Nibbāna*,
 na qual deixa de haver qualquer atracção e apego seja ao que for, na
 qual a nossa vida torna-se simplesmente uma resposta proveniente de um
 sentimento de compaixão e de uma visão límpida, de uma compreensão

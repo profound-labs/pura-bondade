@@ -79,8 +79,8 @@ proveitos que eu vejo.»
 Acho esta história interessante, uma vez que mostra que, a partir de
 algo muito simples como uma acção generosa, há uma progressão natural,
 que leva à libertação perfeita. Um processo semelhante é descrito quando
-o venerável Ananda interroga o Buddha acerca dos benefícios de *sila*
-(moralidade). A resposta do Buddha foi que, devido a *sila*, existirá
+o venerável Ananda interroga o Buddha acerca dos benefícios de *sīla*
+(moralidade). A resposta do Buddha foi que, devido a *sīla*, existirá
 uma ausência de remorso, o que dará lugar a um sentimento de
 contentamento e, por aí fora, na mesma progressão, passo a passo.
 

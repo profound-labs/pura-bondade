@@ -1,7 +1,7 @@
 
 <h1><%= book.title %></h1>
 <% unless book.subtitle.nil? %><h2><%= book.subtitle %></h2><% end %>
-<h3>by <%= book.author %></h3>
+<h3>por <%= book.author %></h3>
 
 <div class="title-page-rule"></div>
 
@@ -11,10 +11,10 @@
       <td>
         <p class="footnotesize" style="font-style: italic;">
         <% unless book.publisher.nil? %>
-        Published by <%= book.publisher %>: <%= book.publisher_atag %><br/>
+        Publicações Sumedhārāma <%= book.publisher %> <%= book.publisher_atag %><br/>
         <% end %>
         <% unless book.book_atag.nil? %>
-        Find out more about this book at: <%= book.book_atag %>
+        <%= book.book_atag %>
         <% end %>
         </p>
       </td>

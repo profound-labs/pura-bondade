@@ -14,7 +14,7 @@ a verdade da nossa existência e cada um de nós pode realizar esta
 verdade, conhecê-la por si próprio. Podemos usar palavras, conceitos e
 instruções para orientar a nossa atenção no sentido de saborear a
 verdade. Esta é uma experiência directa. O Buddha disse que o Dhamma era
-*sanditthiko, akaliko, ehipassiko, opanayiko.* Estas palavras em Pali
+*sanditthiko, akāliko, ehipassiko, opanayiko.* Estas palavras em Pali
 traduzem-se como: «aparente aqui e agora», «intemporal», «encorajando à
 investigação» e «guiando para o interior». Podemos saborear o Dhamma
 quando e onde quer que estejamos.

@@ -22,7 +22,7 @@ nos levam na direcção errada, aquelas que nos encorajam a fazer coisas
 que podem ser danosas para nós ou para os outros.
 
 Quando cheguei à prática budista fiquei bastante surpreendida com a
-ênfase colocada na virtude ou *sila*, com a forma como vivemos as nossas
+ênfase colocada na virtude ou *sīla*, com a forma como vivemos as nossas
 vidas. Já praticava meditação há algum tempo, inserida noutras tradições
 e, de certa forma, tinha conseguido separar a meditação dos outros
 aspectos da minha vida. A meditação era algo que eu fazia em
@@ -60,8 +60,8 @@ sentimento de contentamento, um sentimento de alegria e isto, na
 realidade, ajudou a minha meditação.
 
 Existem vários ensinamentos nos quais o Buddha é directamente
-questionado sobre os efeitos da generosidade, *dana*, ou de se seguir os
-preceitos, *sila*, e todas as vezes ele refere este sentimento de
+questionado sobre os efeitos da generosidade, *dāna*, ou de se seguir os
+preceitos, *sīla*, e todas as vezes ele refere este sentimento de
 contentamento e de alegria que surge. O Buddha referia igualmente que,
 quando temos cuidado e evitamos agir de forma danosa, não temos de
 experienciar arrependimento ou remorso e, assim, o corpo pode

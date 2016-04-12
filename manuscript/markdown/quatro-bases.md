@@ -16,13 +16,13 @@ grande objectivo da nossa meditação: cultivar o hábito de presença.
 Nos seus ensinamentos, o Buddha apresentou aquilo que denominou as
 Quatro Bases da Consciência:
 
-> kayanupassana: *contemplação do corpo ou da forma*
+> kāyānupassana: *contemplação do corpo ou da forma*
 >
-> vedananupassana: *contemplação dos sentimentos*
+> vedanānupassana: *contemplação dos sentimentos*
 >
-> cittanupassana: *contemplação da própria mente*
+> cittānupassana: *contemplação da própria mente*
 >
-> dhammanupassana: *contemplação dos objectos-mente*
+> dhammānupassana: *contemplação dos objectos-mente*
 
 São bases porque são pontos básicos de referência - estão sempre
 presentes e constituem parte da nossa experiência diária, mas o nosso
@@ -37,9 +37,9 @@ todos maus, alguns podem mesmo ser bastante úteis. Com efeito, são
 essenciais para a vida em comunidade, em sociedade, mas há que os
 compreender tal como são.
 
-O corpo ou forma (*kaya*), é a primeira base da consciência. O Buddha
+O corpo ou forma (*kāya*), é a primeira base da consciência. O Buddha
 utiliza muitas formas de reflectir sobre a experiência do corpo,
-incluindo a consciência da respiração ou *anapanasati*, e a consciência
+incluindo a consciência da respiração ou *ānāpānasati*, e a consciência
 da postura, quer estejamos a andar, de pé, sentados ou deitados. O
 Buddha falou igualmente da consciência quando realizamos as tarefas mais
 comuns, como comer, beber, debruçarmo-nos ou espreguiçarmo-nos, de forma
@@ -52,13 +52,13 @@ ordenação de monges e de monjas é levar a atenção para a aparência
 exterior do corpo, a superfície do corpo. Assim, cada monge noviço ou
 monja noviça repete a seguir ao professor:
 
-> kesa *(cabelo)*
+> kesā *(cabelo)*
 >
-> loma *(pelos do corpo)*
+> lomā *(pelos do corpo)*
 >
-> nakha *(unhas)*
+> nakhā *(unhas)*
 >
-> danta *(dentes)*
+> dantā *(dentes)*
 >
 > taco *(pele)*
 
@@ -97,12 +97,12 @@ corpo.
 
 A segunda base da consciência é a contemplação das sensações. De facto,
 em inglês «sensação» é, com frequência, utilizado como sinónimo de
-«emoção», mas a palavra em Pali para «sensação», *vedana*, não se
-encontra directamente relacionada com emoção. *Vedana* quer simplesmente
+«emoção», mas a palavra em Pali para «sensação», *vedanā*, não se
+encontra directamente relacionada com emoção. *Vedanā* quer simplesmente
 dizer sensações agradáveis, sensações desagradáveis ou sensações
 neutras, nem agradáveis nem desagradáveis. Algumas emoções são
 agradáveis e algumas emoções são sentidas como desagradáveis, mas
-*vedana*, a palavra Pali, está separada de emoção. Pode referir-se a
+*vedanā*, a palavra Pali, está separada de emoção. Pode referir-se a
 algo agradável que se sente tanto a nível físico como mental - tanto o
 corpo como a mente podem ter sentimentos agradáveis, desagradáveis ou
 neutros.
@@ -124,7 +124,7 @@ Acho igualmente útil a contemplação de sensações desagradáveis pois
 ajuda-me a reagir à sensação de forma mais branda. Quando me sinto
 aborrecida, perturbada ou confusa, tenho tendência a lutar com estes
 estados se não estou plenamente consciente. Mas se recorro à
-contemplação de *vedana* - reconhecendo o aborrecimento ou a confusão
+contemplação de *vedanā* - reconhecendo o aborrecimento ou a confusão
 como uma sensação desagradável - notar apenas que esta é uma sensação
 desagradável pode ajudar-me a permanecer presente com a sensação. É
 surpreendente como, quando estamos presentes com a sensação
@@ -179,7 +179,7 @@ mentes fazem, não é por mal, é impessoal. Assim, esta é uma abordagem à
 contemplação da mente ou da consciência.
 
 O quarto princípio é *dhamma*, que não é a mesma coisa que Dhamma como
-refúgio, verdade. Mas, como a palavra *nibbana*, que apenas quer dizer
+refúgio, verdade. Mas, como a palavra *nibbāna*, que apenas quer dizer
 «arrefecido» - como quando um fogo é extinto -, *dhamma* também tem um
 sentido muito comum e normal. Pode significar apenas «coisa» ou
 «objecto». Assim, esta base refere-se à contemplação de objetos-mente, o
@@ -197,6 +197,6 @@ mente para reflectir sobre aspectos dos ensinamentos e sobre como os
 aplicar à nossa situação.
 
 Assim, a primeira base da consciência é a forma do corpo
-(*kayanupassana),* a segunda são as sensações (*vedananupassana*), a
-terceira é a mente ou a consciência (*cittanupassana)* e a quarta são os
-objectos-mente (*dhammanupassana).*
+(*kāyānupassana),* a segunda são as sensações (*vedanānupassana*), a
+terceira é a mente ou a consciência (*cittānupassana)* e a quarta são os
+objectos-mente (*dhammānupassana).*

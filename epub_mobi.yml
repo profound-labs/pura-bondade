@@ -4,6 +4,10 @@ version: 'v1.0'
 # Epub and Mobi
 # =============
 
+# TODO set the language as PT
+# TODO no chapter numbers in TOC
+# TODO quote itshape and emph could be reversed, see kayanupassana
+
 bookid: "PuraBondadeBookId"
 
 toc:
