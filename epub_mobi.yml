@@ -5,8 +5,8 @@ version: 'v1.0'
 # =============
 
 # TODO set the language as PT
-# TODO no chapter numbers in TOC
-# TODO quote itshape and emph could be reversed, see kayanupassana
+
+show_toc_chapter_numbers: false
 
 bookid: "PuraBondadeBookId"
 

@@ -11,17 +11,13 @@
       <td>
         <p class="footnotesize" style="font-style: italic;">
         <% unless book.publisher.nil? %>
-        Publicações Sumedhārāma <%= book.publisher %> <%= book.publisher_atag %><br/>
+            <%= book.publisher %><br/>
+            <%= book.publisher_atag %><br/>
         <% end %>
         <% unless book.book_atag.nil? %>
         <%= book.book_atag %>
         <% end %>
         </p>
-      </td>
-      <td>
-        <% unless book.publisher_logo.nil? %>
-        <div class="publisher-logo"><img src="../Images/<%= book.publisher_logo %>" alt="logo"/></div>
-        <% end %>
       </td>
     </tr>
   </tbody>
