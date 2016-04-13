@@ -43,7 +43,7 @@
 
     
 
-    <dc:publisher>The Publisher</dc:publisher>
+    <dc:publisher>Publicações Sumedhārāma</dc:publisher>
     <dc:date opf:event="publication">2016-03-24</dc:date>
 
     <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
@@ -80,7 +80,7 @@
     
     <item href="Text/cover.xhtml" id="chapter_capa" media-type="application/xhtml+xml" />
     
-    <item href="Text/nibbana.xhtml" id="chapter_nibbana" media-type="application/xhtml+xml" />
+    <item href="Text/nibbana.xhtml" id="chapter_nibb-na" media-type="application/xhtml+xml" />
     
     <item href="Text/autora.xhtml" id="chapter_sobre-a-autora" media-type="application/xhtml+xml" />
     
@@ -96,7 +96,7 @@
     
     <item href="Text/tres-refugios.xhtml" id="chapter_os-tr-s-ref-gios-e-os-cinco-preceitos" media-type="application/xhtml+xml" />
     
-    <item href="Text/recordar-o-buddha.xhtml" id="chapter_recordar-o-buddha-o-dhammae-o-sangha" media-type="application/xhtml+xml" />
+    <item href="Text/recordar-o-buddha.xhtml" id="chapter_recordar-o-buddha-o-dhamma-e-o-sangha" media-type="application/xhtml+xml" />
     
     <item href="Text/titlepage.xhtml" id="chapter_t-tulo" media-type="application/xhtml+xml" />
     
@@ -166,7 +166,7 @@
     
     <itemref idref="chapter_trabalhar-os-obst-culos"  />
     
-    <itemref idref="chapter_recordar-o-buddha-o-dhammae-o-sangha"  />
+    <itemref idref="chapter_recordar-o-buddha-o-dhamma-e-o-sangha"  />
     
     <itemref idref="chapter_inten-o-correcta"  />
     
@@ -178,7 +178,7 @@
     
     <itemref idref="chapter_encontro-com-a-morte"  />
     
-    <itemref idref="chapter_nibbana"  />
+    <itemref idref="chapter_nibb-na"  />
     
     <itemref idref="chapter_continuar"  />
     

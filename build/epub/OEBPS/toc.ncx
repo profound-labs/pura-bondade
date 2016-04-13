@@ -44,7 +44,7 @@
 <navLabel><text>Trabalhar os Obstáculos</text></navLabel>
 <content src='Text/trabalhar.xhtml'/></navPoint>
 <navPoint id='nav11' playOrder='11'>
-<navLabel><text>Recordar o Buddha, o Dhammae o Sangha</text></navLabel>
+<navLabel><text>Recordar o Buddha, o Dhamma e o Sangha</text></navLabel>
 <content src='Text/recordar-o-buddha.xhtml'/></navPoint>
 <navPoint id='nav12' playOrder='12'>
 <navLabel><text>Intenção Correcta</text></navLabel>
@@ -62,7 +62,7 @@
 <navLabel><text>Encontro Com a Morte</text></navLabel>
 <content src='Text/encontro-com-a-morte.xhtml'/></navPoint>
 <navPoint id='nav17' playOrder='17'>
-<navLabel><text>Nibbana</text></navLabel>
+<navLabel><text>Nibbāna</text></navLabel>
 <content src='Text/nibbana.xhtml'/></navPoint>
 <navPoint id='nav18' playOrder='18'>
 <navLabel><text>Continuar</text></navLabel>
