@@ -16,13 +16,13 @@ grande objectivo da nossa meditação: cultivar o hábito de presença.
 Nos seus ensinamentos, o Buddha apresentou aquilo que denominou as
 Quatro Bases da Consciência:
 
-> kāyānupassana: *contemplação do corpo ou da forma*
+> *kāyānupassana:* contemplação do corpo ou da forma
 >
-> vedanānupassana: *contemplação dos sentimentos*
+> *vedanānupassana:* contemplação dos sentimentos
 >
-> cittānupassana: *contemplação da própria mente*
+> *cittānupassana:* contemplação da própria mente
 >
-> dhammānupassana: *contemplação dos objectos-mente*
+> *dhammānupassana:* contemplação dos objectos-mente
 
 São bases porque são pontos básicos de referência - estão sempre
 presentes e constituem parte da nossa experiência diária, mas o nosso
@@ -52,15 +52,15 @@ ordenação de monges e de monjas é levar a atenção para a aparência
 exterior do corpo, a superfície do corpo. Assim, cada monge noviço ou
 monja noviça repete a seguir ao professor:
 
-> kesā *(cabelo)*
+> *kesā* (cabelo)
 >
-> lomā *(pelos do corpo)*
+> *lomā* (pelos do corpo)
 >
-> nakhā *(unhas)*
+> *nakhā* (unhas)
 >
-> dantā *(dentes)*
+> *dantā* (dentes)
 >
-> taco *(pele)*
+> *taco* (pele)
 
 Outra coisa que recitamos no mosteiro é a «reflexão sobre as trinta e
 duas partes», na qual trazemos à mente todas as partes do corpo: carne,

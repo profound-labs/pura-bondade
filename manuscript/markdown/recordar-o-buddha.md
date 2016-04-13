@@ -1,5 +1,5 @@
-Recordar o Buddha, o Dhammae o Sangha
-=====================================
+Recordar o Buddha, o Dhamma e o Sangha
+======================================
 
 É bom recordar as qualidades do Buddha, do Dhamma e do Sangha.
 

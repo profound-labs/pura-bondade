@@ -140,9 +140,9 @@ situações desagradáveis da mente ou do corpo, podemos, na realidade,
 estar bastante serenos. Tornou-se claro que o sofrimento não era causado
 pela própria condição mas pela luta no sentido de evitar essa condição.
 
-Querer que as coisas sejam distintas daquilo que são, envolvermo–nos no
-desejo de que as coisas sejam diferentes, leva-nos ao stress, à luta, ao
-sofrimento. Mas se pudermos reconhecer a condição desagradável e
+Querer que as coisas sejam distintas daquilo que são, envolvermo- -nos
+no desejo de que as coisas sejam diferentes, leva-nos ao stress, à luta,
+ao sofrimento. Mas se pudermos reconhecer a condição desagradável e
 simplesmente admitirmos que existe um desejo natural de querer evitá-la,
 podemos alcançar uma condição de paz real. Isto também funciona com
 condições agradáveis: temos a tendência de nos agarrarmos a elas, não
@@ -165,12 +165,12 @@ de campo muito bonita, no norte de Inglaterra. Um dia, estava junto a
 uma cascata a observar o movimento e os padrões da água que caía.
 Ocorreu-me um poema, e constatei que na realidade este reflectia a vida:
 
-> *A cair*\\
-> *A cair*\\
-> *Posso apanhar?*\\
-> *Posso apanhar?*\\
-> *Não…*\\
-> Não podemos!
+> A cair\\
+> A cair\\
+> Posso apanhar?\\
+> Posso apanhar?\\
+> Não…\\
+> *Não podemos!*
 
 Nas nossas vidas por vezes experienciamos coisas lindíssimas. Temos
 também relacionamentos especiais, nos quais sentimos uma afinidade

@@ -10,24 +10,24 @@ Livre de má-fé,\\
 Livre de ansiedade,\\
 E possa eu manter em mim bem-estar.*
 
-Que todos mantenham bem-estar,\\
+*Que todos mantenham bem-estar,\\
 Livres de hostilidade,\\
 Livres de má-fé,\\
 Livres de ansiedade, e possam eles\\
-Manter bem-estar em si próprios.
+Manter bem-estar em si próprios.*
 
-Possam todos os seres se libertarem de todo o sofrimento.
+*Possam todos os seres se libertarem de todo o sofrimento.*
 
-E que todos não se separarem da boa fortuna que alcançaram.
+*E que todos não se separarem da boa fortuna que alcançaram.*
 
-Quando agem com intenção,\\
+*Quando agem com intenção,\\
 Todos os seres são os donos de sua acção e herdam seus resultados.\\
 O seu futuro nasce de tal acção, companheiro de tal acção,\\
-E os seus resultados serão o seu lar.
+E os seus resultados serão o seu lar.*
 
-Todas as acções com intenção,\\
+*Todas as acções com intenção,\\
 Sejam elas boas ou más –\\
-De tais actos eles serão os herdeiros.
+De tais actos eles serão os herdeiros.*
 
 Este é o cântico que trata do que denominamos de Brahma Viharas:
 benquerença, compaixão, alegria empática e equanimidade ou serenidade. A
