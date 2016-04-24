@@ -2,7 +2,7 @@ Pura Bondade
 ==============
 
 Paperback status: **COMPLETED**  
-Ebook status: **IN PROGRESS**
+Ebook status: **COMPLETED**
 
 First edition
 
