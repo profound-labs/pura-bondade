@@ -47,7 +47,7 @@
     <dc:date opf:event="publication">2016-03-24</dc:date>
 
     <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
-    <dc:language>en</dc:language>
+    <dc:language>pt</dc:language>
 
     <meta name="cover" content="cover-image" />
 
@@ -117,8 +117,6 @@
     <item href="Text/curiosidade.xhtml" id="chapter_curiosidade-e-compreens-o" media-type="application/xhtml+xml" />
     
     <item href="Text/continuar.xhtml" id="chapter_continuar" media-type="application/xhtml+xml" />
-    
-    <item href="Images/publisher-logo.jpg" id="images-publisher-logo-jpg" media-type="image/jpeg" />
     
     <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg" />
     
