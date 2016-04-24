@@ -4,8 +4,6 @@ version: 'v1.0'
 # Epub and Mobi
 # =============
 
-# TODO set the language as PT
-
 show_toc_chapter_numbers: false
 
 bookid: "PuraBondadeBookId"
@@ -36,6 +34,8 @@ toc:
   - { the_matter: backmatter }
   - autora.md
   - { title: "Copyright", src: 'copyright.md.erb', type: copyright-page }
+
+lang: pt
 
 subject: RELIGION / Buddhism / Theravada
 source: http://fsbooks.org
