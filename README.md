@@ -6,7 +6,7 @@ Ebook status: **COMPLETED**
 
 First edition
 
-ISBN for paperback: `000-0-00000-000-0`
+ISBN for paperback: `978-989-8691-35-4`
 
 ISBN for ebooks: `000-0-00000-000-0`
 
